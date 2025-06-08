@@ -43,7 +43,7 @@ A simple microservice that analyzes uploaded files and returns their metadata bu
 
 ## Live Demo
 
-[View Live Demo]()
+[View Live Demo](https://file-metadata-microservice-zjck.onrender.com)
 
 ## Installation & Setup
 
